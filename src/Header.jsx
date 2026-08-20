@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <h1>UBM Eventos</h1>
+      <h1>UBM EVENTOS</h1>
       <p>Gustavo Marques</p>
     </header>
   )
